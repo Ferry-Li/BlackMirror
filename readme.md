@@ -40,7 +40,7 @@ Running ``evaluate.py`` with the result csv file can obtain the detection perfor
 If you find this work or repository useful, please cite the following:
 
 ```bib
-@inproceedings{li2024coerasing,
+@inproceedings{li2026blackmirror,
 title={BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation}, 
 author={Feiran Li and Qianqian Xu and Shilong Bao and Zhiyong Yang and Xilin Zhao and Xiaochun Cao and Qingming Huang},
 booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
